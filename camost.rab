@@ -1,0 +1,65 @@
+﻿internal class Program
+{
+    private static void Main(string[] args)
+    {
+        //Задание 1.
+        //5.Вывести на экран 4 горизонтальных строки, каждая из которых состоит из 7 символов, отделенных друг от друга пустыми строками.
+        //int j = 0;
+        //do
+        //{
+        //    for (int i = 1; i < 8; i++)
+        //    {
+        //        Console.Write("#");
+        //    }
+        //    Console.WriteLine(); Console.WriteLine();
+        //    j++;
+        //}
+        //while (j < 4);
+
+        //Задание 2. 5.
+        //for (int i = 1; i <= 12; i++)
+        //{
+        //    Console.Write("\t");
+        //    for (int j = 1; j <= i; j++)
+        //    {
+        //        Console.Write("#");
+        //    }
+        //    Console.WriteLine();
+        //}
+
+        //Задание 3.Вычислить значение выражения, определив и использовав дополнительный метод: 5. у=(13+√7)/(7+√13)+(15+√12)/(12+√15)+(32+√21)/(21+√32)
+        //double y = CalculateExpression();
+        //Console.WriteLine($"Значение выражения: {y}");
+        //static double CalculateExpression()
+        //{
+        //    double i = 0;
+        //    double a = (13 + Math.Sqrt(7)) / (7 + Math.Sqrt(13));
+        //    double b = (15 + Math.Sqrt(12)) / (12 + Math.Sqrt(15));
+        //    double c = (32 + Math.Sqrt(21)) / (21 + Math.Sqrt(32));
+        //    i =a + b + c;
+        //    return i;
+        //}
+
+        //Задание 4.5.Рассчитать значение z = min(2a, b + a) + min(2a - b, b), определив и использовав функцию Min(x, y) – минимальное из двух чисел.
+        //static int Min(int x, int y)
+        //{
+        //    return x < y ? x : y;
+        //}
+
+        //{
+        //    Console.Write("Введите значение a: ");
+        //    int a = Convert.ToInt32(Console.ReadLine());
+        //    Console.Write("Введите значение b: ");
+        //    int b = Convert.ToInt32(Console.ReadLine());
+        //    int z = Min(2 * a, b + a) + Min(2 * a - b, b);
+        //    Console.WriteLine("Значение z = " + z);
+        //    Console.ReadKey();
+        //}
+
+      
+       
+    }
+    
+
+}
+
