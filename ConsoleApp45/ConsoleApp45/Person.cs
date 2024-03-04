@@ -13,6 +13,30 @@ namespace ConsoleApp45
         protected DateTime birth;
         protected string faculty;
 
+        public string Name
+        {
+            get { return name; }
+            set { Name = value; }
+        }
+
+        public string Lastname
+        {
+            get { return lastname; }
+            set { lastname = value; }
+        }
+
+        public DateTime Birth
+        {
+            get { return birth; }
+            set { birth = value; }
+        }
+
+        public string Faculty
+        {
+            get { return faculty; }
+            set { Faculty = value; }
+        }
+
         public Person(string name, string lastname, DateTime birth, string faculty)
         {
             this.name = name;
@@ -23,6 +47,7 @@ namespace ConsoleApp45
 
         public abstract void Info();
 
+
         public int Age()
         {
             DateTime now = DateTime.Now;
@@ -30,6 +55,8 @@ namespace ConsoleApp45
             if (now < birth.AddYears(age))
                 age--;
             return age;
+
+            //return DateTime.Now.Year-Birth.Year;
         }
     }
 }
