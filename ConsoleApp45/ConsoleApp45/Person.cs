@@ -8,51 +8,46 @@ namespace ConsoleApp45
 {
     public abstract class Person
     {
-        protected string name;
-        protected string lastname;
-        protected DateTime birth;
-        protected string faculty;
-
-        public string Name
+         public string Name
         {
-            get { return name; }
-            set { Name = value; }
+            get;
+            set;
         }
 
         public string Lastname
         {
-            get { return lastname; }
-            set { lastname = value; }
+            get;
+            set;
         }
 
         public DateTime Birth
         {
-            get { return birth; }
-            set { birth = value; }
+            get;
+            set;
         }
 
         public string Faculty
         {
-            get { return faculty; }
-            set { Faculty = value; }
+            get;
+            set;
         }
 
         public Person(string name, string lastname, DateTime birth, string faculty)
-        {
-            this.name = name;
-            this.lastname = lastname;
-            this.birth = birth;
-            this.faculty = faculty;
+        { 
+            this.Name = name;
+            this.Lastname = lastname;
+            this.Birth = birth;
+            this.Faculty = faculty;
         }
 
         public abstract void Info();
-
+          
 
         public int Age()
         {
             DateTime now = DateTime.Now;
-            int age = now.Year - birth.Year;
-            if (now < birth.AddYears(age))
+            int age = now.Year - Birth.Year;
+            if (now < Birth.AddYears(age))
                 age--;
             return age;
 
