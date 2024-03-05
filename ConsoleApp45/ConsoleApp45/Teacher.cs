@@ -8,45 +8,51 @@ namespace ConsoleApp45
 {
     internal class Teacher : Person
     {
-        protected string position;
-        protected int experience;
+         //protected string position;
+        //protected int experience;
 
         public string Position
         {
-            get { return position; }
-            set { position = value; }
+            get;
+            set;
         }
 
         public int Experience
         {
-            get { return experience; }
-            set { experience = value; }
+            get;
+            set;
         }
 
         public Teacher(string name, string lastname, DateTime birth, string faculty, string position, int experience) : base(name, lastname, birth, faculty)
         {
-            this.position = position;
-            this.experience = experience;
+            this.Position = position;
+            this.Experience = experience;
         }
 
         public override void Info()
         {
-            Console.WriteLine($"Teacher: {name}, {lastname}, Age: {Age()}, Faculty:{faculty}, Position: {position}, Experience: {experience}");
+            Console.WriteLine($"Applicant: {Name} {Lastname}");
+            Console.WriteLine($"Birth: {Birth.ToShortDateString()}");
+            Console.WriteLine($"Faculty:{Faculty}");
+            Console.WriteLine($"Position: {Position}");
+            Console.WriteLine($"Experience: {Experience}");
+            Console.WriteLine($"Age: {Age()}");
+
         }
 
         public static Teacher Input()
         {
-            Console.WriteLine("Введите имя");
+            Console.Write("Введите имя: ");
             string name = Console.ReadLine();
-            Console.WriteLine("введите фамилию");
+            Console.Write("введите фамилию: ");
             string lastname = Console.ReadLine();
-            Console.WriteLine("Введите возраст");
+            Console.Write("Введите возраст: ");
             DateTime birth = DateTime.Parse(Console.ReadLine());
-            Console.WriteLine("Введите факультет");
+            Console.Write("Введите факультет: ");
             string faculty = Console.ReadLine();
-            Console.WriteLine("Введите должность");
+            Console.Write("Введите должность: ");
             string position = Console.ReadLine();
-            Console.WriteLine("введите стаж");
+            Console.Write("введите стаж: ");
             int experience = Convert.ToInt32(Console.ReadLine());
             return new Teacher(name, lastname, birth, faculty, position, experience);
         }
