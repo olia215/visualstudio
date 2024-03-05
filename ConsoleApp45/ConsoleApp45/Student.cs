@@ -8,36 +8,41 @@ namespace ConsoleApp45
 {
     internal class Student : Person
     {
-         protected int course;
+        //protected int course;
 
         public int Course
         {
-            get { return course; }
-            set { course = value; }
+            get;
+            set;
         }
-        public Student(string name, string lastname, DateTime birth, string faculty, int course) : base(name, lastname, birth, faculty)
+        public Student(string name, string lastname, DateTime birth, string faculty, int course):base(name, lastname, birth,faculty)
         {
-            this.course = course;
+            this.Course = course;
         }
 
         public override void Info()
         {
-            Console.WriteLine($"Student: {name}, {lastname}, Age: {Age()}, Faculty:{faculty}, Course: {course}");
+            Console.WriteLine($"Applicant: {Name} {Lastname}");
+            Console.WriteLine($"Birth: {Birth.ToShortDateString()}");
+            Console.WriteLine($"Faculty:{Faculty}");
+            Console.WriteLine($"Course: {Course}");
+            Console.WriteLine($"Age: {Age()}");
+          
         }
 
         public static Student Input()
         {
-            Console.WriteLine("Введите имя");
+            Console.Write("Введите имя: ");
             string name = Console.ReadLine();
-            Console.WriteLine("введите фамилию");
+            Console.Write("введите фамилию: ");
             string lastname = Console.ReadLine();
-            Console.WriteLine("Введите возраст");
+            Console.Write("Введите возраст: ");
             DateTime birth = DateTime.Parse(Console.ReadLine());
-            Console.WriteLine("Введите факультет");
+            Console.Write("Введите факультет: ");
             string faculty = Console.ReadLine();
-            Console.WriteLine("Введите курс");
+            Console.Write("Введите курс: ");
             int course = Convert.ToInt32(Console.ReadLine());
-            return new Student(name, lastname, birth, faculty, course);
+            return new Student(name, lastname, birth, faculty,course);
         }
     }
 }
