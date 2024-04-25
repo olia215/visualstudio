@@ -1,0 +1,15 @@
+D:\215\ConsoleApp10\bin\Debug\ConsoleApp10.exe.config
+D:\215\ConsoleApp10\bin\Debug\ConsoleApp10.exe
+D:\215\ConsoleApp10\bin\Debug\ConsoleApp10.pdb
+D:\215\ConsoleApp10\obj\Debug\ConsoleApp10.csproj.AssemblyReference.cache
+D:\215\ConsoleApp10\obj\Debug\ConsoleApp10.csproj.CoreCompileInputs.cache
+D:\215\ConsoleApp10\obj\Debug\ConsoleApp10.exe
+D:\215\ConsoleApp10\obj\Debug\ConsoleApp10.pdb
+E:\шандригоз практ 3\bin\Debug\ConsoleApp10.exe.config
+E:\шандригоз практ 3\bin\Debug\ConsoleApp10.exe
+E:\шандригоз практ 3\bin\Debug\ConsoleApp10.pdb
+E:\шандригоз практ 3\obj\Debug\ConsoleApp10.csproj.AssemblyReference.cache
+E:\шандригоз практ 3\obj\Debug\ConsoleApp10.csproj.SuggestedBindingRedirects.cache
+E:\шандригоз практ 3\obj\Debug\ConsoleApp10.csproj.CoreCompileInputs.cache
+E:\шандригоз практ 3\obj\Debug\ConsoleApp10.exe
+E:\шандригоз практ 3\obj\Debug\ConsoleApp10.pdb
