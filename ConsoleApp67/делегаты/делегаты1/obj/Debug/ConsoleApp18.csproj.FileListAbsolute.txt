@@ -1,0 +1,15 @@
+D:\215\ConsoleApp18\bin\Debug\ConsoleApp18.exe.config
+D:\215\ConsoleApp18\bin\Debug\ConsoleApp18.exe
+D:\215\ConsoleApp18\bin\Debug\ConsoleApp18.pdb
+D:\215\ConsoleApp18\obj\Debug\ConsoleApp18.csproj.AssemblyReference.cache
+D:\215\ConsoleApp18\obj\Debug\ConsoleApp18.csproj.CoreCompileInputs.cache
+D:\215\ConsoleApp18\obj\Debug\ConsoleApp18.exe
+D:\215\ConsoleApp18\obj\Debug\ConsoleApp18.pdb
+E:\информатика\делегаты\делегаты1\bin\Debug\ConsoleApp18.exe.config
+E:\информатика\делегаты\делегаты1\bin\Debug\ConsoleApp18.exe
+E:\информатика\делегаты\делегаты1\bin\Debug\ConsoleApp18.pdb
+E:\информатика\делегаты\делегаты1\obj\Debug\ConsoleApp18.csproj.AssemblyReference.cache
+E:\информатика\делегаты\делегаты1\obj\Debug\ConsoleApp18.csproj.SuggestedBindingRedirects.cache
+E:\информатика\делегаты\делегаты1\obj\Debug\ConsoleApp18.csproj.CoreCompileInputs.cache
+E:\информатика\делегаты\делегаты1\obj\Debug\ConsoleApp18.exe
+E:\информатика\делегаты\делегаты1\obj\Debug\ConsoleApp18.pdb
