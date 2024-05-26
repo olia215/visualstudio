@@ -1,0 +1,15 @@
+D:\информатика\ConsoleApp69\ConsoleApp69\bin\Debug\net6.0\ConsoleApp69.exe
+D:\информатика\ConsoleApp69\ConsoleApp69\bin\Debug\net6.0\ConsoleApp69.deps.json
+D:\информатика\ConsoleApp69\ConsoleApp69\bin\Debug\net6.0\ConsoleApp69.runtimeconfig.json
+D:\информатика\ConsoleApp69\ConsoleApp69\bin\Debug\net6.0\ConsoleApp69.dll
+D:\информатика\ConsoleApp69\ConsoleApp69\bin\Debug\net6.0\ConsoleApp69.pdb
+D:\информатика\ConsoleApp69\ConsoleApp69\obj\Debug\net6.0\ConsoleApp69.csproj.AssemblyReference.cache
+D:\информатика\ConsoleApp69\ConsoleApp69\obj\Debug\net6.0\ConsoleApp69.GeneratedMSBuildEditorConfig.editorconfig
+D:\информатика\ConsoleApp69\ConsoleApp69\obj\Debug\net6.0\ConsoleApp69.AssemblyInfoInputs.cache
+D:\информатика\ConsoleApp69\ConsoleApp69\obj\Debug\net6.0\ConsoleApp69.AssemblyInfo.cs
+D:\информатика\ConsoleApp69\ConsoleApp69\obj\Debug\net6.0\ConsoleApp69.csproj.CoreCompileInputs.cache
+D:\информатика\ConsoleApp69\ConsoleApp69\obj\Debug\net6.0\ConsoleApp69.dll
+D:\информатика\ConsoleApp69\ConsoleApp69\obj\Debug\net6.0\refint\ConsoleApp69.dll
+D:\информатика\ConsoleApp69\ConsoleApp69\obj\Debug\net6.0\ConsoleApp69.pdb
+D:\информатика\ConsoleApp69\ConsoleApp69\obj\Debug\net6.0\ConsoleApp69.genruntimeconfig.cache
+D:\информатика\ConsoleApp69\ConsoleApp69\obj\Debug\net6.0\ref\ConsoleApp69.dll
