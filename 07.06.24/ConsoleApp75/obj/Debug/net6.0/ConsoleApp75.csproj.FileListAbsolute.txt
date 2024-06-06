@@ -1,0 +1,15 @@
+D:\информатика\ConsoleApp75\bin\Debug\net6.0\ConsoleApp75.exe
+D:\информатика\ConsoleApp75\bin\Debug\net6.0\ConsoleApp75.deps.json
+D:\информатика\ConsoleApp75\bin\Debug\net6.0\ConsoleApp75.runtimeconfig.json
+D:\информатика\ConsoleApp75\bin\Debug\net6.0\ConsoleApp75.dll
+D:\информатика\ConsoleApp75\bin\Debug\net6.0\ConsoleApp75.pdb
+D:\информатика\ConsoleApp75\obj\Debug\net6.0\ConsoleApp75.csproj.AssemblyReference.cache
+D:\информатика\ConsoleApp75\obj\Debug\net6.0\ConsoleApp75.GeneratedMSBuildEditorConfig.editorconfig
+D:\информатика\ConsoleApp75\obj\Debug\net6.0\ConsoleApp75.AssemblyInfoInputs.cache
+D:\информатика\ConsoleApp75\obj\Debug\net6.0\ConsoleApp75.AssemblyInfo.cs
+D:\информатика\ConsoleApp75\obj\Debug\net6.0\ConsoleApp75.csproj.CoreCompileInputs.cache
+D:\информатика\ConsoleApp75\obj\Debug\net6.0\ConsoleApp75.dll
+D:\информатика\ConsoleApp75\obj\Debug\net6.0\refint\ConsoleApp75.dll
+D:\информатика\ConsoleApp75\obj\Debug\net6.0\ConsoleApp75.pdb
+D:\информатика\ConsoleApp75\obj\Debug\net6.0\ConsoleApp75.genruntimeconfig.cache
+D:\информатика\ConsoleApp75\obj\Debug\net6.0\ref\ConsoleApp75.dll
